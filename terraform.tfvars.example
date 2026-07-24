@@ -1,2 +1,2 @@
 # password example, change later to terraform.tfvars
-db_password = "M0torS123!"
+db_password = "******"
